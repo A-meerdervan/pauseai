@@ -12,7 +12,7 @@ Much of our society is based on trust. We trust that the money in our bank accou
 
 AI systems are exceptionally good at creating fake media. They can create fake videos, fake audio, fake text, and fake images.
 These capabilities are improving rapidly.
-Just two years ago, we laughed at the horribly unrealistic dall-e images, but now we have [deepfake images winning photography contests](https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated).
+Just two years ago, we laughed at the horribly unrealistic dall-e images, but now we have [AI generated images winning photography contests](https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated).
 GPT-4 can write in a way that is indistinguishable from humans.
 
 Creating fake media is not new, but AI makes it much cheaper and much more realistic.
@@ -41,7 +41,7 @@ Image generation models (which are heavily trained on copyrighted material from 
 Writers are [striking](https://www.newscientist.com/article/2373382-why-use-of-ai-is-a-major-sticking-point-in-the-ongoing-writers-strike/).
 GPT-4 has passed the bar exam, can write excellent written content, and can write code (again, trained on often copyrighted materials).
 The people who own these AI systems will be able to capitalize on them, but the people who lose their jobs to them will not.
-The way we distribute wealth in our society is not prepared for this.
+The way we distribute wealth in our society is not prepared for this. We ask governments to create plans on how to deal with all of this and how AI generated wealth will be distributed.
 
 ## Computer viruses and hacks
 
@@ -59,13 +59,13 @@ Instead of having to hire a team of highly skilled security experts/hackers to f
 
 ## Existential Risk
 
-Over half of AI researchers believe there is a >10% chance that AI will cause human extinction.
-Would you enter a plane if half of the plane engineers believed there was a >10% chance that it would crash?
+About half of AI researchers believe there is a 10% or higher chance that AI will lead to a very bad outcome (e.g. human extinction).
+Would you enter a plane if half of the plane engineers believed there was a 10% chance that it would crash?
 
 Very intelligent things are very powerful.
 If we build a machine that is far more intelligent than humans, we need to be sure that it wants the same thing as we want.
 However, this turns out to be very difficult.
 This is called the _alignment problem_.
-If we fail to solve it in time, we are likely to end up with an unstoppable machine making decisions for us that is not considering our well-being.
+his is currently an unsolved problem. If we fail to solve it in time, we are likely to end up with an unstoppable machine that is making decisions that do not consider our well-being.
 
 [Read more about x-risk](/xrisk)
